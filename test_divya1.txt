@@ -2,6 +2,10 @@
 blah blah
 =======
 divya view
+<<<<<<< HEAD
 >>>>>>> dadidivya
 
 Divya is looking good today
+=======
+simultaneous edit by divya Dadi
+>>>>>>> dadidivya
