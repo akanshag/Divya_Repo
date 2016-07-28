@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 blah blah
+=======
+divya view
+>>>>>>> dadidivya
+
+Divya is looking good today
